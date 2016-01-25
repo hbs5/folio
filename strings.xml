@@ -8,36 +8,36 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="app_name">Folio</string>
     <!-- Replaces Facebook WebView Title -->
     <string name="app_name_toolbar">Folio</string>
-    <string name="app_name_about">Folio for Facebook</string>
-    <string name="action_settings">Settings</string>
-    <string name="end">Log out</string>
+    <string name="app_name_about">Folio para Facebook</string>
+    <string name="action_settings">Configurações</string>
+    <string name="end">Sair</string>
     <!-- Close Drawer -->
-    <string name="closeDrawer">Navigation View</string>
+    <string name="closeDrawer">Visualizar navegação</string>
     <!-- Open Drawer -->
-    <string name="openDrawer">Open Left Drawer</string>
+    <string name="openDrawer">Abrir gaveta da esquerda</string>
     
     <!-- Close The App -->
-    <string name="exit">Close</string>
+    <string name="exit">Fechar</string>
     <!-- Save Image On Long Press -->
-    <string name="customize_folio">Customize Folio</string>
-    <string name="customize_folio_hint">Change look and layout.</string>
-    <string name="tap_to_set">Tap To Apply Changes</string>
+    <string name="customize_folio">Customizar Folio</string>
+    <string name="customize_folio_hint">Alterar aparência e o layout.</string>
+    <string name="tap_to_set">Clique para aplicar modificações.</string>
    
-    <string name="status_updated">Status updated.</string>
+    <string name="status_updated">Status atualizado.</string>
     
     
     <!-- FAB LABELS -->
-    <string name="update_status">Post Status</string>
-    <string name="update_photo">Add Photos</string>
-    <string name="update_share">Share Now</string>
+    <string name="update_status">Postar Status</string>
+    <string name="update_photo">Adicionar fotos</string>
+    <string name="update_share">Compartihe agora</string>
     
-    <string name="license_success">Themes activiated</string>
-    <string name="license_failed">Themes disabled</string>
+    <string name="license_success">Temas ativados.</string>
+    <string name="license_failed">Temas desativados</string>
     
-    <string name="show_fab">Display a FAB</string>
+    <string name="show_fab">Exibir uma FAB</string>
     <string name="show_fab_hint">Display a floating action button to post status updates to Facebook via Folio. When used in the default layout the FAB will not hide. When used with removed Facebook bar and removed toolbar, the FAB will hide. This will disable Facebook themes and Facebook layouts. This is also very buggy at the momment. </string>
     
-    <string name="loading_video">Loading.</string>
+    <string name="loading_video">Carregando.</string>
     
     <string name="hide_sponsored">Hide sponsored posts</string>
     <string name="hide_sponsored_description">Remove Facebook ads &amp; sponsored posts.</string>
@@ -49,34 +49,34 @@ Copyright notice must remain here if you're using any part of this code.-->
           
     
     <!-- Folio Drawer -->
-    <string name="quickaccess">Quick Access</string>
-    <string name="newsfeed">Most Recent</string>
+    <string name="quickaccess">Acesso rápido</string>
+    <string name="newsfeed"</string>
     <string name="trending">Trending</string>
     <string name="messages">Messages</string>
     <string name="topnews">Top News</string>
     <string name="fbmenu">Facebook Menu</string>
     
-    <string name="faved">Favorites</string>
-    <string name="friends">Friends</string>
-    <string name="groups">Groups</string>
-    <string name="pages">Pages</string>
-    <string name="photos">Photos</string>
+    <string name="faved">Favoritos</string>
+    <string name="friends">Amigos</string>
+    <string name="groups">Grupos</string>
+    <string name="pages">Páginas</string>
+    <string name="photos">Fotos</string>
     
     <string name="reminders">Reminders</string>
-    <string name="events">Events</string>
+    <string name="events">Eventos</string>
     <string name="onthisday">On This Day</string>
     <string name="saved">Saved</string>
     
-    <string name="prefs">Preferences</string>
-    <string name="settings">Settings</string>
+    <string name="prefs">Preferencias</string>
+    <string name="settings">Configurações</string>
     <string name="helpfeed">Feedback</string>
-    <string name="bugs">Report A Bug</string>
+    <string name="bugs">Reportar um bug</string>
     
     <!-- Twitter Drawer -->
     <string name="discover">Discover</string>
     <string name="connect">Connect</string>
-    <string name="twitter_search">Search</string>
-    <string name="twitter_home">Home</string>
+    <string name="twitter_search">Buscar</string>
+    <string name="twitter_home">Início</string>
     <string name="twitter_me">Me</string>
     <string name="switch_to_folio">Switch to Folio</string>
     <string name="switch_to_twitter">Switch to Twitter</string>
@@ -87,17 +87,17 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- Add ons -->
     <string name="addons">Social Add-ons</string>
     <string name="addons_hint">Twitter requires the Twitter Add-on Key. All other add-ons require the Folio Key. Other add-ons are not yet available to toggle on.</string>
-    <string name="enable_twitter">Enable Twitter</string>
-    <string name="enable_google">Enable Google+</string>
-    <string name="enable_instagram">Enable Instagram</string>
-    <string name="enable_tumblr">Enable Tumblr</string>
+    <string name="enable_twitter">Ativar Twitter</string>
+    <string name="enable_google">Ativar Google+</string>
+    <string name="enable_instagram">Ativar Instagram</string>
+    <string name="enable_tumblr">Ativar Tumblr</string>
     
     <!-- Removals -->
     <string name="navigation_pref">Navigation Drawer Items</string>
     <string name="navigation_pref_hint">Customize the navigation drawer by removing items you don\'t use in Folio.</string>
     <string name="recent_nav">Remove Most Recent</string>
     <string name="top_nav">Remove Top News</string>
-    <string name="facebook_nav">Remove Messages</string>
+    <string name="facebook_nav">Remover Messagens</string>
     <string name="trending_nav">Remove Trending</string>
     <string name="friends_nav">Remove Friends</string>
     <string name="groups_nav">Remove Groups</string>
@@ -141,7 +141,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="fb_chat">Active Friends</string>
     <string name="fb_recent">Most Recent</string>
     <string name="refresh">Refresh</string>
-    <string name="notifications">Notifications</string>
+    <string name="notifications">Notificações</string>
     <string name="notifications_about_hint">Setup notifications.</string>
     <string name="search">Search Facebook</string>
     
@@ -149,8 +149,8 @@ Copyright notice must remain here if you're using any part of this code.-->
    	
 	
     <!-- Save Image On Long Press  & Sharing-->
-    <string name="savefolio">Save Image</string>
-    <string name="txt_save_image_success">Downloading Image.</string>
+    <string name="savefolio">Salvar Imagem</string>
+    <string name="txt_save_image_success">Baixando Imagem.</string>
     <string name="txt_save_image_failed">Could not save image</string>
     <string name="share_action">Share current page</string>
     <string name="share_action_subject">Facebook page</string>
@@ -173,7 +173,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
     <string name="default_mode">Facebook Mobile</string>
-    <string name="basic_mode">Facebook Basic</string>
+    <string name="basic_mode">Facebook Basico</string>
     <string name="desktop_mode">Desktop Mode</string>        
   
     
@@ -490,7 +490,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_dan_link" translatable="true">https://play.google.com/store/apps/details?id=com.danvelazco.fbwrapper&amp;hl=en</string>
     
         
-    <string name="credits_beta">Facebook Group</string>
+    <string name="credits_beta">Grupo do facebook</string>
     <string name="credits_beta_description">Join Creative Trends Beta on Facebook.</string>
     <string name="credits_beta_link" translatable="true">https://www.facebook.com/groups/creativtrendz/</string>
     
@@ -700,7 +700,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="no_images_hint">Reduce data usage be removing images.</string>
       
         
-    <string name="hide_bar">Remove Facebook Bar</string>
+    <string name="hide_bar">Remover barra do facebook</string>
     
     
     <string name="choose_theme_folio">Choose App Theme</string>
@@ -761,10 +761,10 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- Folio Favorites -->
     
-    <string name="open_link_title">Open Links</string>
+    <string name="open_link_title">Abrir links</string>
     <string name="open_link_hint">Open external links in Folio</string>
     
-    <string name="addPage">Add to Favorites</string>
+    <string name="addPage">Adicionar nos favoritos</string>
     <string name="removePage">Remove remove from Favorites</string>
     
     <string name="remember_title">News Feed Position (Beta)</string>
