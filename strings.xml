@@ -8,22 +8,22 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="app_name">Folio</string>
     <!-- Replaces Facebook WebView Title -->
     <string name="app_name_toolbar">Folio</string>
-    <string name="app_name_about">Folio for Facebook</string>
-    <string name="action_settings">Settings</string>
-    <string name="end">Log out</string>
+    <string name="app_name_about">Folio para Facebook</string>
+    <string name="action_settings">Configurações</string>
+    <string name="end">Sair</string>
     <!-- Close Drawer -->
-    <string name="closeDrawer">Navigation View</string>
+    <string name="closeDrawer">Visualização de navegação</string>
     <!-- Open Drawer -->
     <string name="openDrawer">Open Left Drawer</string>
     
     <!-- Close The App -->
-    <string name="exit">Close</string>
+    <string name="exit">Fechar</string>
     <!-- Save Image On Long Press -->
-    <string name="customize_folio">Customize Folio</string>
+    <string name="customize_folio">Customizar Folio</string>
     <string name="customize_folio_hint">Change look and layout.</string>
-    <string name="tap_to_set">Tap To Apply Changes</string>
+    <string name="tap_to_set">Clique para aplicae</string>
    
-    <string name="status_updated">Status updated.</string>
+    <string name="status_updated">Status alterado.</string>
     
     
     <!-- FAB LABELS -->
