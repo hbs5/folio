@@ -10,7 +10,7 @@ $(window).on('load', function () {
 
 	function funcaoNotificacao() {
 		$.notify(nomes[Math.floor(Math.random() * nomes.length)] + " adquiriu o Plano " + planos[Math.floor(Math.random() * planos.length)] + " há " + Math.floor(Math.random() * (60 - 1) + 1) + " minutos atrás", {
-			position: "bottom left"
+			position: "fixed
 		});
 		setTimeout(funcaoNotificacao, 15000);
 	}
