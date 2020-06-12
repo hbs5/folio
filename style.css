@@ -278,7 +278,8 @@ footer {
 .notifyjs-bootstrap-error {
 	background: rgba(0,0,0, 0.9) !important;
 	border-color: #000 !important;
-	color: #000 !important;
+	color: #FFF !important;
+	position: fixed
 }
 .notifyjs-bootstrap-base {
 	text-shadow: none !important;
