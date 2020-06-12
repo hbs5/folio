@@ -277,8 +277,8 @@ footer {
 }
 .notifyjs-bootstrap-error {
 	background: rgba(0,0,0, 0.9) !important;
-	border-color: #fff !important;
-	color: #000 !important;
+	border-color: #FFF !important;
+	color: #FFF !important;
 }
 .notifyjs-bootstrap-base {
 	text-shadow: none !important;
@@ -338,7 +338,7 @@ footer {
 		padding: 10px 20px;
 	}
 	.navbar-collapse {
-		background: #000;
+		background: #FFF;
 		padding-bottom: 20px;
 	}
 	.notifyjs-corner {
