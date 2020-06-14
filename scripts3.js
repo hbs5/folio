@@ -9,7 +9,7 @@ $(window).on('load', function () {
 	var planos = ['MENSAL', 'SEMESTRAL', 'ANUAL'];
 
 	function funcaoNotificacao() {
-		$.notify(nomes[Math.floor(Math.random() * nomes.length)] + " adquiriu o Plano  " + planos[Math.floor(Math.random() * planos.length)] + " há " + Math.floor(Math.random() * (60 - 1) + 1) + " minutos atrás", {
+		$.notify(nomes[Math.floor(Math.random() * nomes.length)] + " adquiriu o Plano  \n" + planos[Math.floor(Math.random() * planos.length)] + " há " + Math.floor(Math.random() * (60 - 1) + 1) + " minutos atrás", {
 			position: "bottom left"
 		});
 		setTimeout(funcaoNotificacao, 15000);
